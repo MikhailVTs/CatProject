@@ -43,3 +43,9 @@ aside {
     gap: 5px;
     flex-wrap: wrap;
 }
+
+.buttons-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
