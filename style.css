@@ -11,12 +11,7 @@ body {
 aside {
     background: #E0EBFEB2;
     width: 370px;
-    /* height: 1206;
-    top: 40px;
-    left: 40px; */
     border-radius: 40px;
-    /* angle: 0 deg;
-    opacity: 1; */
 }
 
 ol {
@@ -30,12 +25,7 @@ ol {
 
 .wrapper {
     width: 1200px;
-    /* height: 1206;
-    top: 40px;
-    left: 40px; */
     border-radius: 40px;
-    /* angle: 0 deg;
-    opacity: 1; */
     background: #FFFFFF;
     margin: 0 auto;
     display: flex;
