@@ -19,6 +19,11 @@ aside {
     opacity: 1; */
 }
 
+ol {
+    padding: 0;
+    padding-left: 20px;
+}
+
 .aside-box {
     padding: 40px;
 }
