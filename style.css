@@ -178,3 +178,9 @@ li::marker {
     letter-spacing: 0%;
 
 }
+.p-favorite{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+}
