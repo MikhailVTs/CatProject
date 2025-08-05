@@ -113,3 +113,61 @@ h2 {
     flex-direction: column;
     gap: 10px;
 }
+
+.title-box{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 73px;
+
+}
+
+h1{
+    margin: 0;
+}
+
+.text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #4a5161;
+
+}
+
+.bold-text{
+    font-weight: 700;
+    color: #1f2937;
+}
+
+.info-box > p{
+    display: flex;
+    gap: 24px;
+
+}
+
+.info-box > p > b{
+    width: 80px;
+}
+
+li{
+    padding-left: 8px;
+    margin-bottom: 10px;
+}
+
+li::marker{
+    font-weight: bold;
+}
+
+.list-item{
+    font-weight: bold;
+}
+
+.inner-list{
+    margin-top: 10px;
+    list-style-type: disc;
+}
+
+.inner-list> li{
+    font-weight: 400;
+    color: #4a5161;
+}
