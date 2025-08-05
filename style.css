@@ -43,6 +43,7 @@ h2 {
     font-weight: 700;
     font-size: 22px;
     color: #1F2937;
+    margin: 24px 0;
 }
 
 .friends {
@@ -114,60 +115,66 @@ h2 {
     gap: 10px;
 }
 
-.title-box{
+.title-box {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-top: 73px;
-
 }
 
-h1{
+h1 {
     margin: 0;
 }
 
-.text{
+.text {
     font-weight: 400;
     font-size: 14px;
     line-height: 171%;
     color: #4a5161;
-
 }
 
-.bold-text{
+.bold-text {
     font-weight: 700;
     color: #1f2937;
 }
 
-.info-box > p{
+.info-box>p {
     display: flex;
     gap: 24px;
-
 }
 
-.info-box > p > b{
+.info-box>p>b {
     width: 80px;
 }
 
-li{
+li {
     padding-left: 8px;
     margin-bottom: 10px;
 }
 
-li::marker{
+li::marker {
     font-weight: bold;
 }
 
-.list-item{
+.list-item {
     font-weight: bold;
 }
 
-.inner-list{
+.inner-list {
     margin-top: 10px;
     list-style-type: disc;
 }
 
-.inner-list> li{
+.inner-list>li {
     font-weight: 400;
     color: #4a5161;
+}
+
+.span-favorite{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
 }
